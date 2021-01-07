@@ -197,3 +197,5 @@ jobs:
           asset_path: ${{ steps.assemble_artifact.outputs.emmc_path }}
           asset_name: ${{ steps.assemble_artifact.outputs.emmc_name }}
           asset_content_type: application/gz
+          
+           
